@@ -1,5 +1,4 @@
 # AWS-Services
-List of AWS services
 
 ### Analytics
 * Amazon Athena
@@ -166,19 +165,85 @@ List of AWS services
 * AWS Well-Architected Tool
 
 ### Media Services
+* Amazon Elastic Transcoder
+* Amazon Kinesis Video Streams
+* AWS Elemental MediaConnect
+* AWS Elemental MediaConvert
+* AWS Elemental MediaLive
+* AWS Elemental MediaPackage
+* AWS Elemental MediaStore
+* AWS Elemental MediaTailor
+* AWS Elemental Appliance & Software
 
 ### Migration & Transfer
+* AWS Migration Hub
+* AWS Application Discovery Service
+* AWS Database Migration Service
+* AWS DataSync
+* AWS Server Migration Service (SMS)
+* AWS Snow Family
+* AWS Transfer for SFTP
+* CloudEndure Migration
 
 ### Mobile
+* AWS Amplify
+* Amazon API Gateway
+* Amazon Pinpoint
+* AWS AppSync
+* AWS Device Farm
 
 ### Network & Content Delivery
+* Amazon Virtual Private Cloud (VPC)
+* Amazon API Gateway
+* Amazon CloudFront
+* Amazon Route 53
+* Amazon Private Link
+* AWS App Mesh
+* AWS Cloud Map
+* AWS Direct Connect
+* AWS Global Accelerator
+* AWS Transit Gateway
+* Elastic Load Balancing
 
 ### Quantum Technologies
+* Amazon Braket
 
 ### Robotics
+* AWS RoboMaker
 
 ### Satellite
+* AWS Ground Station
 
 ### Security, Identity & Compliance
+* AWS Identity & Access Management (IAM)
+* Amazon Cognito
+* Amazon Detective
+* Amazon GuardDuty
+* Amazon Inspector
+* Amazon Macie
+* AWS Artifact
+* AWS Certificate Manager
+* AWS CloudHSM
+* AWS Directory Services
+* AWS Firewall Manager
+* AWS Key Management Service (KMS)
+* AWS Resource Access Manager
+* AWS Secrets Manager
+* AWS Security Hub
+* AWS Shield
+* AWS Single Sign-On (SSO)
+* AWS Web Application Firewall (WAF)
 
 ### Storage
+* Amazon Simple Storage Service (S3)
+* Amazon Elastic Block Store (EBS)
+* Amazon Elastic File System (EFS)
+* Amazon FSx for Lustre
+* Amazon FSx for Windows File Server
+* Amazon S3 Glacier
+* AWS Backup
+* AWS Snow Family
+* AWS Storage Gateway
+* CloudEndure Disaster Recovery
+
+###### Source: https://aws.amazon.com/products/
