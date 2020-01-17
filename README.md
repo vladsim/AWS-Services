@@ -246,4 +246,4 @@
 * [AWS Storage Gateway](Services/StorageGateway.md)
 * [CloudEndure Disaster Recovery](Services/CloudEndureDR.md)
 
-###### Source: https://[AWS.[Amazon.com/products/
+###### Source: https://aws.amazon.com/products/
