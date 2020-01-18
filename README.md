@@ -1,4 +1,4 @@
-# [AWS-Services
+# AWS-Services
 
 ### Analytics
 * [Amazon Athena](Services/Athena.md)
