@@ -25,7 +25,7 @@
 ### AR & VR
 * [Amazon Sumerian](Services/Sumerian.md)
 
-### [AWS Cost Management
+### AWS Cost Management
 * [AWS Cost Explorer](Services/CostExplorer.md)
 * [AWS Budgets](Services/Budgets.md)
 * [AWS Cost and Usage Report](Services/CostUsageReport.md)
