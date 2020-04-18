@@ -45,18 +45,20 @@
 ### Compute
 * [Amazon EC2](Services/EC2.md)
 * [Amazon EC2 Auto Scaling](Services/AutoScaling.md)
-* [Amazon Elastic Container Registry (ECR)](Services/ECR.md)
-* [Amazon Elastic Container Service (ECS)](Services/ECS.md)
-* [Amazon Elastic Kubernetes Service (EKS)](Services/EKS.md)
 * [Amazon Lightsail](Services/Lightsail.md)
 * [AWS Batch](Services/Batch.md)
 * [AWS Elastic Beanstalk](Services/ElasticBeanstalk.md)
-* [AWS Fargate](Services/Fargate.md)
 * [AWS Lambda](Services/Lambda.md)
 * [AWS Outposts](Services/Outposts.md)
 * [AWS Serverless Application Repository](Services/ServerlessAppsRepo.md)
 * [AWS Wavelength](Services/Wavelength.md)
-* [VMware Cloud on (AWS)](Services/VMware.md)
+* [VMware Cloud on AWS](Services/VMware.md)
+
+### Containers
+* [Amazon Elastic Container Registry (ECR)](Services/ECR.md)
+* [Amazon Elastic Container Service (ECS)](Services/ECS.md)
+* [Amazon Elastic Kubernetes Service (EKS)](Services/EKS.md)
+* [AWS Fargate](Services/Fargate.md)
 
 ### Customer Engagement
 * [Amazon Connect](Services/Connect.md)
@@ -69,7 +71,7 @@
 * [Amazon DynamoDB](Services/DynamoDB.md)
 * [Amazon DocumentDB (with MongoDB compatibility)](Services/DocumentDB.md)
 * [Amazon ElastiCache](Services/ElastiCache.md)
-* [Amazon Managed Apache Cassandra Service](Services/Cassandra.md)
+* [Amazon Managed Apache Cassandra Service (MSK)](Services/Cassandra.md)
 * [Amazon Neptune](Services/Neptune.md)
 * [Amazon Quantum Ledger Database (QLDB)](Services/QLDB.md)
 * [Amazon Relational Database Service (RDS)](Services/RDS.md)
@@ -104,7 +106,6 @@
 
 ### Internet of Things
 * [AWS IoT Core](Services/IoTCore.md)
-* [Amazon FreeRTOS](Services/FreeRTOS.md)
 * [AWS Greengrass](Services/Greengrass.md)
 * [AWS IoT 1-Click](Services/IoT1Click.md)
 * [AWS IoT Analytics](Services/IoTAnalytics.md)
@@ -115,6 +116,7 @@
 * [AWS IoT SiteWise](Services/IoTSiteWise.md)
 * [AWS IoT Things Graph](Services/IoTThingGraph.md)
 * [AWS Partner Device Catalog](Services/PartnerDeviceCatalog.md)
+* [Amazon FreeRTOS](Services/FreeRTOS.md)
 
 ### Machine Learning
 * [Amazon SageMaker](Services/SageMaker.md)
@@ -139,8 +141,8 @@
 * [AWS DeepLens](Services/DeepLens.md)
 * [AWS DeepRacer](Services/DeepRacer.md)
 * [Amazon Inferentia](Services/Inferentia.md)
-* [Apache MXNet on (AWS)](Services/MXNet.md)
-* [TensorFlow on (AWS)](Services/TensorFlow.md)
+* [Apache MXNet on AWS](Services/MXNet.md)
+* [TensorFlow on AWS](Services/TensorFlow.md)
 
 ### Management & Governance
 * [Amazon CloudWatch](Services/CloudWatch.md)
