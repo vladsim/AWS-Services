@@ -71,7 +71,7 @@
 * [Amazon DynamoDB](Services/DynamoDB.md)
 * [Amazon DocumentDB (with MongoDB compatibility)](Services/DocumentDB.md)
 * [Amazon ElastiCache](Services/ElastiCache.md)
-* [Amazon Managed Apache Cassandra Service (MSK)](Services/Cassandra.md)
+* [Amazon Keyspaces (for Apache Cassandra)](Services/Keyspaces.md)
 * [Amazon Neptune](Services/Neptune.md)
 * [Amazon Quantum Ledger Database (QLDB)](Services/QLDB.md)
 * [Amazon Relational Database Service (RDS)](Services/RDS.md)
