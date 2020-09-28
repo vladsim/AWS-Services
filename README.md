@@ -85,9 +85,11 @@
 * [AWS Database Migration Service (DMS)](Services/DMS.md)
 
 ### Developer Tools
+* [Amazon CodeGuru](Services/CodeGuru.md)
 * [Amazon Corretto](Services/Corretto.md)
 * [AWS Cloud Development Kit (CDK)](Services/CDK.md)
 * [AWS Cloud9](Services/Cloud9.md)
+* [AWS CodeArtifact](Services/CodeArtifact.md)
 * [AWS CodeBuild](Services/CodeBuild.md)
 * [AWS CodeCommit](Services/CodeCommit.md)
 * [AWS CodeDeploy](Services/CodeDeploy.md)
