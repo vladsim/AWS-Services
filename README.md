@@ -16,6 +16,7 @@
 
 ### Application Integration
 * [AWS Step Functions](Services/StepFunctions.md)
+* [Amazon AppFlow](Services/AppFlow.md)
 * [Amazon EventBridge](Services/EventBridge.md)
 * [Amazon MQ](Services/MQ.md)
 * [Amazon Simple Notification Service (SNS)](Services/SNS.md)
