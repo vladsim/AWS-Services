@@ -106,6 +106,13 @@
 * [Amazon WorkLink](Services/WorkLink.md)
 * [Amazon WorkSpaces](Services/WorkSpaces.md)
 
+### Front-End Web & Mobile
+* [AWS Amplify](Services/Amplify.md)
+* [Amazon API Gateway](Services/APIGateway.md)
+* [Amazon Pinpoint](Services/Pinpoint.md)
+* [AWS AppSync](Services/AppSync.md)
+* [AWS Device Farm](Services/DeviceFarm.md)
+
 ### Game Tech
 * [Amazon GameLift](Services/GameLift.md)
 * [Amazon Lumberyard](Services/Lumberyard.md)
@@ -147,6 +154,7 @@
 * [AWS DeepLens](Services/DeepLens.md)
 * [AWS DeepRacer](Services/DeepRacer.md)
 * [Amazon Inferentia](Services/Inferentia.md)
+* [PyTorch on AWS](Services/PyTorch.md)
 * [Apache MXNet on AWS](Services/MXNet.md)
 * [TensorFlow on AWS](Services/TensorFlow.md)
 
