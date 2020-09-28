@@ -203,13 +203,6 @@
 * [CloudEndure Migration](Services/CloudEndureMigration.md)
 * [Migration Evaluator (formerly TSO Logic)](Services/MigrationEvaluator.md)
 
-### Mobile
-* [AWS Amplify](Services/Amplify.md)
-* [Amazon API Gateway](Services/APIGateway.md)
-* [Amazon Pinpoint](Services/Pinpoint.md)
-* [AWS AppSync](Services/AppSync.md)
-* [AWS Device Farm](Services/DeviceFarm.md)
-
 ### Network & Content Delivery
 * [Amazon Virtual Private Cloud (VPC)](Services/VPC.md)
 * [Amazon API Gateway](Services/APIGateway.md)
@@ -251,6 +244,18 @@
 * [AWS Shield](Services/Shield.md)
 * [AWS Single Sign-On (SSO)](Services/SSO.md)
 * [AWS Web Application Firewall (WAF)](Services/WAF.md)
+
+### Serverless
+* [AWS Lambda](Services/Lambda.md)
+* [Amazon API Gateway](Services/APIGateway.md)
+* [Amazon DynamoDB](Services/DynamoDB.md)
+* [Amazon EventBridge](Services/EventBridge.md)
+* [Amazon Simple Notification Service (SNS)](Services/SNS.md)
+* [Amazon Simple Queue Service (SQS)](Services/SQS.md)
+* [Amazon Simple Storage Service (S3)](Services/S3.md)
+* [Amazon AppSync](Services/AppSync.md)
+* [AWS Fargate](Services/Fargate.md)
+* [AWS Step Functions](Services/StepFunctions.md)
 
 ### Storage
 * [Amazon Simple Storage Service (S3)](Services/S3.md)
