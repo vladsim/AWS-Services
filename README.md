@@ -199,7 +199,7 @@
 * [AWS DataSync](Services/DataSync.md)
 * [AWS Server Migration Service (SMS)](Services/SMS.md)
 * [AWS Snow Family](Services/SnowFamily.md)
-* [AWS Transfer for SFTP](Services/TransferSFTP.md)
+* [AWS Transfer Family](Services/TransferFamily.md)
 * [CloudEndure Migration](Services/CloudEndureMigration.md)
 
 ### Mobile
