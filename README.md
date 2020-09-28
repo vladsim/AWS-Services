@@ -201,6 +201,7 @@
 * [AWS Snow Family](Services/SnowFamily.md)
 * [AWS Transfer Family](Services/TransferFamily.md)
 * [CloudEndure Migration](Services/CloudEndureMigration.md)
+* [Migration Evaluator (formerly TSO Logic)](Services/MigrationEvaluator.md)
 
 ### Mobile
 * [AWS Amplify](Services/Amplify.md)
