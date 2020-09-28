@@ -40,6 +40,7 @@
 ### Business Applications
 * [Alexa for Business](Services/AlexaBusiness.md)
 * [Amazon Chime](Services/Chime.md)
+* [Amazon Honeycode](Services/Honeycode.md)
 * [Amazon WorkDocs](Services/WorkDocs.md)
 * [Amazon WorkMail](Services/WorkMail.md)
 
