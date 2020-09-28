@@ -182,6 +182,7 @@
 
 ### Media Services
 * [Amazon Elastic Transcoder](Services/ElasticTranscoder.md)
+* [Amazon Interactive Video Service](Services/InteractiveVideo.md)
 * [Amazon Kinesis Video Streams](Services/KinesisVideoStreams.md)
 * [AWS Elemental MediaConnect](Services/ElementalMediaConnect.md)
 * [AWS Elemental MediaConvert](Services/ElementalMediaConvert.md)
