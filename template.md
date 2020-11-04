@@ -8,5 +8,3 @@
 **External resources:** 
 * list of all external resources
   
-**Internal resources:**
-* list of all internal resources
