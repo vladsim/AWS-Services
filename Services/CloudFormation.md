@@ -11,9 +11,9 @@ For 3rd parties:
 **FAQs:** https://aws.amazon.com/cloudformation/faqs/  
   
 **External resources:** 
-* Getting Started https://aws.amazon.com/cloudformation/getting-started/#
-* User Guide (Docs) https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/index.html
-* User Guide for Extension Development (Docs) https://docs.aws.amazon.com/cloudformation-cli/latest/userguide/index.html
-* Templates https://aws.amazon.com/cloudformation/resources/templates/
-* Resources https://aws.amazon.com/cloudformation/resources/
+* [Getting Started](https://aws.amazon.com/cloudformation/getting-started/#)
+* [User Guide (Docs)](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/index.html)
+* [User Guide for Extension Development (Docs)](https://docs.aws.amazon.com/cloudformation-cli/latest/userguide/index.html)
+* [Templates](https://aws.amazon.com/cloudformation/resources/templates/)
+* [Resources](https://aws.amazon.com/cloudformation/resources/)
   
