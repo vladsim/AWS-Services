@@ -18,13 +18,11 @@
 * [AWS Step Functions](Services/StepFunctions.md)
 * [Amazon AppFlow](Services/AppFlow.md)
 * [Amazon EventBridge](Services/EventBridge.md)
+* [Amazon Managed Workflows for Apache Airflow](Services/ApacheAirflow.md)
 * [Amazon MQ](Services/MQ.md)
 * [Amazon Simple Notification Service (SNS)](Services/SNS.md)
 * [Amazon Simple Queue Service (SQS)](Services/SQS.md)
 * [Amazon AppSync](Services/AppSync.md)
-
-### AR & VR
-* [Amazon Sumerian](Services/Sumerian.md)
 
 ### AWS Cost Management
 * [AWS Cost Explorer](Services/CostExplorer.md)
@@ -40,7 +38,7 @@
 ### Business Applications
 * [Alexa for Business](Services/AlexaBusiness.md)
 * [Amazon Chime](Services/Chime.md)
-* [Amazon Honeycode](Services/Honeycode.md)
+* [Amazon Honeycode (Beta)](Services/Honeycode.md)
 * [Amazon WorkDocs](Services/WorkDocs.md)
 * [Amazon WorkMail](Services/WorkMail.md)
 
@@ -58,20 +56,24 @@
 * [VMware Cloud on AWS](Services/VMware.md)
 
 ### Containers
-* [AWS App2Container](Services/App2Container.md)
 * [Amazon Elastic Container Registry (ECR)](Services/ECR.md)
 * [Amazon Elastic Container Service (ECS)](Services/ECS.md)
+* [Amazon ECS Anywhere (Coming Soon)](Services/ECSAnywhere.md)
 * [Amazon Elastic Kubernetes Service (EKS)](Services/EKS.md)
+* [Amazon EKS Anywhere (Coming Soon)](Services/EKSAnywhere.md)
+* [Amazon EKS Distro](Services/EKSDistro.md)
+* [AWS App2Container](Services/App2Container.md)
 * [AWS Fargate](Services/Fargate.md)
+* [Red Hat OpenShift Service on AWS](Services/RHOpenShift.md)
 
 ### Customer Engagement
 * [Amazon Connect](Services/Connect.md)
 * [Amazon Pinpoint](Services/Pinpoint.md)
 * [Amazon Simple Email Service (SES)](Services/SES.md)
-* [Contact Lens for (Amazon Connect)](Services/ContactLensConnect.md)
 
 ### Database
 * [Amazon Aurora](Services/Aurora.md)
+* [Amazon Aurora Serverless v2 (Preview)](Services/AuroraServerlessv2.md)
 * [Amazon DynamoDB](Services/DynamoDB.md)
 * [Amazon DocumentDB (with MongoDB compatibility)](Services/DocumentDB.md)
 * [Amazon ElastiCache](Services/ElastiCache.md)
@@ -83,6 +85,7 @@
 * [Amazon Redshift](Services/Redshift.md)
 * [Amazon Timestream](Services/Timestream.md)
 * [AWS Database Migration Service (DMS)](Services/DMS.md)
+* [AWS Glue](Services/Glue.md)
 
 ### Developer Tools
 * [Amazon CodeGuru](Services/CodeGuru.md)
@@ -268,5 +271,9 @@
 * [AWS Snow Family](Services/SnowFamily.md)
 * [AWS Storage Gateway](Services/StorageGateway.md)
 * [CloudEndure Disaster Recovery](Services/CloudEndureDR.md)
-
+  
+### VR & AR
+* [Amazon Sumerian](Services/Sumerian.md)
+  
 ###### Source: https://aws.amazon.com/products/
+* [Contact Lens for (Amazon Connect)](Services/ContactLensConnect.md)
